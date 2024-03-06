@@ -1,0 +1,28 @@
+customer_state,State,Region,int_field
+AC,Acre,North,1
+AL,Alagoas,Northeast,1
+AP,Amapá,North,1
+AM,Amazonas,North,1
+BA,Bahia,Northeast,1
+CE,Ceará,Northeast,1
+DF,Distrito Federal,Center West,1
+ES,Espírito Santo,Southeast,1
+GO,Goiás,Center West,1
+MA,Maranhão,Northeast,1
+MT,MatoGrosso,Center West,1
+MS,MatoGrosso do Sul,Center West,1
+MG,Minas Gerais,Southeast,1
+PA,Pará,North,1
+PB,Paraíba,Northeast,1
+PR,Paraná,South,1
+PE,Pernambuco,Northeast,1
+PI,Piauí,Northeast,1
+RJ,Rio de Janeiro,Southeast,1
+RN,Rio Grande do Norte,Northeast,1
+RS,Rio Grande do Sul,South,1
+RO,Rondônia,North,1
+RR,Roraima,North,1
+SC,Santa Catarina,South,1
+SP,São Paulo,Southeast,1
+SE,Sergipe,Northeast,1
+TO,Tocantins,North,1
